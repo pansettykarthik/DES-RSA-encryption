@@ -1,6 +1,6 @@
 # DES and RSA encryption
-Implementations of DES and RSA Encryption in Python
-Course Project for the Course Introduction to Applied Cryptography (CS 428)
+Implementations of DES and RSA Encryption in Python.
+Course Project for the Course Introduction to Applied Cryptography (CS 428).
 
 ## DES Encryption
 
